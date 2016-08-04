@@ -40,6 +40,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="forkGabriel.cs" />
     <Compile Include="Gabriel.cs" />
     <Compile Include="Inicial.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
