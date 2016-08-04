@@ -6,9 +6,7 @@ using System.Threading.Tasks;
 
 namespace GitTestes
 {
-    class Inicial
+    class Kleber
     {
-        public bool Gabriel { get; set; }
-        public bool Kleber { get; set; }
     }
 }
